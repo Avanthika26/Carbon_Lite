@@ -1,0 +1,6 @@
+package com.carbonlite.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
